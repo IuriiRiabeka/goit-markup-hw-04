@@ -373,6 +373,10 @@ button:focus {
 	color: #2e2f42;
 	margin-bottom: 8px;
 }
+.portfolio-name-text {
+	transform: translateY(0%);
+}
+
 .app-name {
 	transform: translateY(0%);
 	padding: 32px 16px;
